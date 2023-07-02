@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class JavaDemoApplication {
 
 	public static void main(String[] args) {
-		//comment added here
+		//comment added here..
 		SpringApplication.run(JavaDemoApplication.class, args);
 	}
 
